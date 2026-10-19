@@ -161,6 +161,25 @@ Automatically creates actionable incidents and dispatches them to emergency auth
 
 ---
 
+## 🖼️ Demo
+
+**Example scenario:** a tourist enters a monitored high-risk zone. The prototype includes a demo simulation with *Safe Location*, *Approach Warning*, *Enter Danger* and *Activate SOS* controls.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./src/tourist-view.png" alt="Tourist view with Digital ID, safe-zone status, SOS button and AI risk engine" /><br/>
+      <sub><b>Tourist View</b>: Digital ID, zone status, SOS and AI risk engine</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./src/safety-map.png" alt="Live safety map with geo-fence zones and tourist risk list" /><br/>
+      <sub><b>Safety Map</b>: live geo-fence zones and risk-ranked tourists</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technology Stack
 
 | Area | Technologies |
@@ -204,6 +223,7 @@ Automatically creates actionable incidents and dispatches them to emergency auth
 > *From knowing **where** the tourist is, to understanding **how risky** the situation is, to enabling **what action** should happen next.*
 
 ---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" alt="Footer banner" />
